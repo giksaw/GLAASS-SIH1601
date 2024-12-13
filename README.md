@@ -27,7 +27,10 @@ You can play this game [**Echoes of Time**](https://www.coregames.com/games/1675
 
 ### Key Features:
 - **Historical Accuracy**: Dive deep into the rich history of India's independence movement.
+
 - **Interactive Gameplay**: Play as Mahatma Gandhi and make choices that influence the game's outcomes.
+
 - **Educational Content**: Learn about key events and figures in Indian history through quizzes and decisions.
+
 
 
